@@ -17,7 +17,7 @@ function TestimonialsCarousel() {
           <Carousel>
             <Carousel.Item>
               <div className="row">
-                <div className="col-lg-4 col-md-4 col-12 m-1">
+                <div className="col-lg-4 col-md-4 col-12">
                   <div className="card border-blue">
                     <div className="card-body px-5">
                       <p className="card-text">
@@ -44,7 +44,7 @@ function TestimonialsCarousel() {
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-4 col-12 m-1">
+                <div className="col-lg-4 col-md-4 col-12 ">
                   <div className="card">
                     <div className="card-body px-5">
                       <p className="card-text">
@@ -69,7 +69,7 @@ function TestimonialsCarousel() {
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-4 col-12 m-1">
+                <div className="col-lg-4 col-md-4 col-12">
                   <div className="card">
                     <div className="card-body px-5">
                       <p className="card-text">
@@ -98,7 +98,7 @@ function TestimonialsCarousel() {
             </Carousel.Item>
             <Carousel.Item>
               <div className="row">
-                <div className="col-lg-4 col-md-4 col-12 m-1">
+                <div className="col-lg-4 col-md-4 col-12">
                   <div className="card border-blue">
                     <div className="card-body px-5">
                       <p className="card-text">
@@ -123,7 +123,7 @@ function TestimonialsCarousel() {
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-4 col-12 m-1">
+                <div className="col-lg-4 col-md-4 col-12 ">
                   <div className="card">
                     <div className="card-body px-5">
                       <p className="card-text">
@@ -148,7 +148,7 @@ function TestimonialsCarousel() {
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-4 col-12 m-1">
+                <div className="col-lg-4 col-md-4 col-12">
                   <div className="card">
                     <div className="card-body px-5">
                       <p className="card-text">
