@@ -1,0 +1,14 @@
+.bannerText h5 span {
+  opacity: 0;
+  animation: fadeInText 2s forwards;
+  animation-delay: calc(0.1s * var(--i));
+}
+
+@keyframes fadeInText {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

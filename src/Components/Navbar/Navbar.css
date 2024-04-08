@@ -1,0 +1,23 @@
+
+.my-nav {
+    width: 100%;
+    z-index: 199;
+    background: radial-gradient(circle, #00c4fb 0, #0091d1 39%, #003e7c 100%);
+}
+.my-nav .nav-link.active {
+    border: 2px solid #fff;
+    border-radius: 20%;
+    background-color: #fb2c79;
+    color:#fff;
+    font-weight: bold;
+}
+.my-nav .nav-link{
+    color:#fff;
+    font-weight: bold;
+
+}
+
+
+
+    
+    

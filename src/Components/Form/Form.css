@@ -1,0 +1,22 @@
+.formContainer{
+    border-radius: 41px;
+    border: 2px solid white;
+}
+.formHeader{
+    background-color: #fb2c79;
+    border-top-left-radius: 51px;
+    border-top-right-radius: 51px;
+    height: 40px;
+    border: 2px solid white;
+}
+
+ul.formBar {
+    background-color: #7EA9D3;
+    border: 1px solid #fff;
+    height: 50px;
+    border-radius: 6px;
+    position: relative;
+    overflow: hidden;
+}
+
+
